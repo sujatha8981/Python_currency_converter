@@ -1,0 +1,6 @@
+Create a simple, yet intuitive interface using tk. This will help in creating a user-friendly interface that is adaptable and customizable.
+Next, import Python library
+use canvas,if required , I have used canvas to make my converter GUI attractive , 
+The Canvas is a rectangular area intended for drawing pictures or other complex layouts. You can place graphics, text, widgets or frames on a Canvas.
+Give, labels, text entry and so on (upon requisites).
+close the main loop
